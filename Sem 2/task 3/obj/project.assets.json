@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Desktop\\Семинар 2\\Homework\\Sem 2\\task 2\\task 2.csproj",
-      "projectName": "task 2",
-      "projectPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\Семинар 2\\Homework\\Sem 2\\task 2\\task 2.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\OneDrive\\Desktop\\Семинар 2\\Homework\\Sem 2\\task 3\\task 3.csproj",
+      "projectName": "task 3",
+      "projectPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\Семинар 2\\Homework\\Sem 2\\task 3\\task 3.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\Семинар 2\\Homework\\Sem 2\\task 2\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\OneDrive\\Desktop\\Семинар 2\\Homework\\Sem 2\\task 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
